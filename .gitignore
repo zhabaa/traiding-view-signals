@@ -7,3 +7,4 @@ __pycache__/
 .env
 pyproject.toml
 uv.lock
+signals.db
