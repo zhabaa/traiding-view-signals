@@ -1,0 +1,10 @@
+{
+  "api_endpoint": "http://localhost:8000/api/signals",
+  "api_key": "",
+  "skip_keywords": ["pin", "закреп", "pinned", "admin", "реклама", "#Report", "LongReport"],
+  "chats": {
+    "-1001111111111": "TOTAL",
+    "-1003333333333": "ETH",
+    "-1003755936543": "BITCOIN"
+  }
+}

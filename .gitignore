@@ -1,0 +1,9 @@
+# dirs
+.venv/
+__pycache__/
+.idea/
+
+# files
+.env
+pyproject.toml
+uv.lock
