@@ -20,7 +20,7 @@
 
     // Chart init
     const chart = LightweightCharts.createChart(chartEl, {
-        layout: {background: {type: "solid", color: "#0b0f14"}, textColor: "#d1d4dc"},
+        layout: {background: {type: "solid", color: "#fff"}, textColor: "#d1d4dc"},
         grid: {vertLines: {color: "rgba(42,46,57,0.5)"}, horzLines: {color: "rgba(42,46,57,0.5)"}},
         rightPriceScale: {borderColor: "rgba(42,46,57,0.8)"},
         timeScale: {borderColor: "rgba(42,46,57,0.8)"},
